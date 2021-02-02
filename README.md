@@ -1,6 +1,7 @@
-# whatspp-clone-server
+# [Working file can be accessed via](https://pedantic-thompson-c5b6a1.netlify.app/)
 
-## server side code for whats-app clone 
-
-## technologies used
-NodeJS , ExpressJs, SocketIo
+## Tech used
+React Js
+NodeJS
+ExpressJs
+SocketIo
